@@ -125,7 +125,7 @@ baserat på användarens val. index.html kan se ut så här.
 
 ``` 
 
-7. Visa veckodag baserat på följande html struktur
+7. Visa veckodag efter att användaren angett ett nummer och tryckt på knappen Visa veckodag. index.html kan se ut så här.
 
 ```javascript
 <!DOCTYPE html>
