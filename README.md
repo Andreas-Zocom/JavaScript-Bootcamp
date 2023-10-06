@@ -18,7 +18,7 @@ Array, functions, if -else, switch case, Loop, DOM manipulation
 </html>
 ``` 
 
-2. Skapa en enkel webbsida som visar en lista över namn från en array. Du vill också markera namnen som börjar med bokstaven "A" i fet stil. 
+1b. Skapa en enkel webbsida som visar en lista över namn från en array. Du vill också markera namnen som börjar med bokstaven "A" i fet stil. 
 
 ```javascript
 const names = ["Alice", "Bob", "Charlie", "Anna", "David", "Eve"];
